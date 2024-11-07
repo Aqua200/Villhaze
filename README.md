@@ -3,13 +3,11 @@
 ## 🌸 **`𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎`**
 ## 🦋**`Si Hablamos De Matemáticas Eres La Suma De Todos Mis Deseos**
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenid@+a+mi+repositorio;disfruta+de+🦋Villhaze)](https://git.io/typing-svg)
-![HuTao](https://qu.ax/FrFZA.jpg)
+![Villhaze](https://qu.ax/FrFZA.jpg)
 
 ---
 
-> **`AVISO`**: HuTao Proyect aun no se encuentra disponible para Termux, recomiendo usar un hosting en lo que se soluciona el problema con Termux.
-
-> **`HuTao - Proyect`** Bot innovador en constante evolucion
+> **`Villhaze`** Bot innovador en constante evolucion acompañado de HuTao
 ---
 
 ### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba La Bot Aqui" width="42" height="42"> Prueba La Bot Aqui
