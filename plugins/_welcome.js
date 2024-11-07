@@ -19,7 +19,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
  if (chat.welcome && m.messageStubType === 27) {
     this.sendMessage(m.chat, { audio: { url: vn }, 
     contextInfo: { forwardedNewsletterMessageInfo: { 
-    newsletterJid: "120363307382381547@newsletter", 
+    newsletterJid: "120363344959608845@newsletter", 
     serverMessageId: '', 
     newsletterName: namechannel }, forwardingScore: 9999999, isForwarded: true, mentionedJid: getMentionedJid(), "externalAdReply": { 
     "title": `  ͟͞ Ｗ Ｅ Ｌ Ｃ Ｏ Ｍ Ｅ ͟͞  `, 
@@ -35,7 +35,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
   if (chat.welcome && (m.messageStubType === 28 || m.messageStubType === 32)) {
     this.sendMessage(m.chat, { audio: { url: vn2 }, 
     contextInfo: { forwardedNewsletterMessageInfo: { 
-    newsletterJid: "120363307382381547@newsletter", 
+    newsletterJid: "120363344959608845@newsletter", 
     serverMessageId: '', 
     newsletterName: namechannel }, forwardingScore: 9999999, isForwarded: true, mentionedJid: getMentionedJid(), "externalAdReply": { 
     "title": `  ͟͞ Ａ Ｄ Ｉ Ｏ Ｓ ͟͞  `, 
