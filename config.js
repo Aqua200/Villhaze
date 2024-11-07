@@ -14,32 +14,32 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-['5216566753569', '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀', true],
-['5218711426787', 'CREADOR', true],
-['5351524614'],
-['5217561063371'],
-['573012482597']
+['', '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍', true],
+['', 'CREADOR', true],
+[''],
+[''],
+['']
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['5351524614', '5218711426787', '', '', '']
+global.mods = ['', '', '', '', '']
 
-global.suittag = ['5218711426787']
+global.suittag = ['']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = '★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★'
-global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀'
-global.author = '*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊*'
-global.wm = '*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊*';
-global.titulowm = '★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★';
-global.titulowm2 = '*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊*'
-global.igfg = '*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊*'
-global.botname = '*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊*'
-global.dev = '★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★'
-global.textbot = '*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊* : ★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★'
-global.gt = '𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀';
-global.namechannel = '*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊*'
+global.packsticker = '🍃̶᪶⃕⊹ ‧₊ 《•𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍•》🍃'
+global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻💖⃟𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎࿑࿐'
+global.author = '💖⃟𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎࿑࿐'
+global.wm = '💖⃟𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎࿑࿐';
+global.titulowm = '🍃̶᪶⃕⊹ ‧₊ 《•𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍•》🍃';
+global.titulowm2 = '💖⃟𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎࿑࿐'
+global.igfg = '💖⃟𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎࿑࿐'
+global.botname = '💖⃟𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎࿑࿐'
+global.dev = '🍃̶᪶⃕⊹ ‧₊ 《•𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍•》🍃'
+global.textbot = '💖⃟𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎࿑࿐ : 🍃̶᪶⃕⊹ ‧₊ 《•𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍•》🍃'
+global.gt = '💖⃟𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎࿑࿐';
+global.namechannel = '🍃̶᪶⃕⊹ ‧₊ 《•𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍•》🍃'
 global.vs = 'V2'
 
 
@@ -81,7 +81,7 @@ global.stickeramor = [amor, amor2, amor3, amor4, amor5]
 global.sickerque = [que, que2, que3, que4, que5, que6]
 global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 //cambiar a true si el bot detecta sus propios comandos.
-global.isBaileysFail = false
+global.isBaileysFail = true
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = 'V2'
@@ -104,15 +104,15 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ ★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊*\n ★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★͟`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/LcifaLUrmww6CPT27IuSAa' //Grupo Oficial De Hutao
-global.gp1 = 'https://chat.whatsapp.com/GFyLX1dDDxI0utho5GBmJI' //Grupo 
+global.gp4 = '' //Grupo Oficial De Hutao
+global.gp1 = '' //Grupo 
 global.gp2 = ''//
-global.comunidad1 = 'https://chat.whatsapp.com/GPEtINYPyIB6a6S55ZJcAO' //Comunidad Megumin
-global.channel = 'https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820' //Canal Oficial
-global.yt = 'https://youtube.com/@davidchian4957' //Canal De Youtube
-global.md = 'https://github.com/CheirZ' //Github Oficial
-global.correo = 'miguel.doce12000@outlook.com'
-global.cn ='https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820';
+global.comunidad1 = '' //Comunidad Megumin
+global.channel = '' //Canal Oficial
+global.yt = '' //Canal De Youtube
+global.md = '' //Github Oficial
+global.correo = ''
+global.cn ='';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
