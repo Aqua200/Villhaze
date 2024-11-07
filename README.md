@@ -1,7 +1,7 @@
-> 💝 Versión Actual: V2
+> ❤️ Versión Actual: V2
 
-## ❤️‍🔥 **`HuTao - Proyect`**
-## 🔥 **`HuTao la directora de "el camino" ahora en tu WhatsApp**
+## 🌸 **`𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎`**
+## 🌹 **`HuTao la directora de "el camino" ahora en tu WhatsApp**
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenid@+a+mi+repositorio;disfruta+de+HuTao🦋+❤️‍🔥yajuuu🔥)](https://git.io/typing-svg)
 ![HuTao](https://qu.ax/MRxO.jpg)
 
