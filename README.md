@@ -31,7 +31,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/CheirZ/HuTao-Proyect.git && cd HuTao-Proyect
+git clone https://github.com/Aqua200/Villhaze.git && cd Villhaze
 ```
 ```bash
 yarn install && npm update && npm i
@@ -44,14 +44,14 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd HuTao-Proyect
+> cd Villhaze
 > npm start
 ```
 
 🔥 **`OBTENER OTRO CODIGO QR`**
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd HuTao-Proyect
+> cd Villhaze
 > rm -rf Seccion-activas
 > npm start
 ```
@@ -62,7 +62,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 💥 **`ACTUALIZAR HuTao`**
-> Note Comandos para actualizar HuTao-Proyect de forma automática
+> Note Comandos para actualizar Villhaze de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/CheirZ/HuTao-Proyect/master/update.sh | bash
 ```
