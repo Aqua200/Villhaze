@@ -2,7 +2,7 @@
 
 ## 🌸 **`𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎`**
 ## 🦋**`Si Hablamos De Matemáticas Eres La Suma De Todos Mis Deseos**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenid@+a+mi+repositorio;disfruta+de+Villhaze+❤️diversion)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenid@+a+mi+repositorio;disfruta+de+🦋Villhaze)](https://git.io/typing-svg)
 ![HuTao](https://qu.ax/FrFZA.jpg)
 
 ---
