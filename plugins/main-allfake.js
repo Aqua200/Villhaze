@@ -35,7 +35,7 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 global.creador = 'Wa.me/526645330556'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/526645330556'
-global.namechannel = '💖⃟𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎࿑࿐'
+global.namechannel = '🍃̶᪶⃕⊹ ‧₊ 《•𝐍𝐞𝐲𝐤𝐨𝐨𝐫🤍•》🍃'
 global.namechannel2 = ''
 global.namegrupo = ''
 global.namecomu = ''
@@ -97,7 +97,7 @@ global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@
 
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363307382381547@newsletter', newsletterName: "*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊*", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363344959608845@newsletter', newsletterName: "*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊*", serverMessageId: -1 }
 }}, { quoted: m }
 
 global.icono = [ 
@@ -109,6 +109,6 @@ global.icono = [
 'https://telegra.ph/file/600bc25a0a8ffbeb649cd.jpg',
 ].getRandom()
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363307382381547@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: 'ఌ︎ 𝙃𝙪𝙏𝙖𝙤 𝙙𝙞𝙧𝙚𝙘𝙩𝙤𝙧𝙖 𝙣𝙪𝙢77', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363344959608845@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: 'ఌ︎ 𝙃𝙪𝙏𝙖𝙤 𝙙𝙞𝙧𝙚𝙘𝙩𝙤𝙧𝙖 𝙣𝙪𝙢77', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
 
 export default handler
