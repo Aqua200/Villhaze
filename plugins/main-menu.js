@@ -185,13 +185,13 @@ await conn.sendMessage(
     mentionedJid: [m.sender],
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363307382381547@newsletter',
-      newsletterName: '*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊*/★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★',
+      newsletterJid: '120363344959608845@newsletter',
+      newsletterName: '💖⃟𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎࿑࿐',
       serverMessageId: -1,
     },
     forwardingScore: 999,
     externalAdReply: {
-      title: '*＊✿❀𝐇𝐮𝐓𝐚𝐨-𝐌𝐃❀✿＊*',
+      title: '💖⃟𝚅𝚒𝚕𝚕𝚑𝚊𝚣𝚎࿑࿐',
       body: dev,
       thumbnailUrl: icono,
       sourceUrl: redes,
