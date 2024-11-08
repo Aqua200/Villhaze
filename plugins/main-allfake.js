@@ -101,12 +101,12 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://telegra.ph/file/600bc25a0a8ffbeb649cd.jpg',
-'https://telegra.ph/file/724ce42202f5e1d01f053.jpg',
-'https://telegra.ph/file/8a3c8e7db5f7a6ec1ebe5.jpg',
-'https://telegra.ph/file/95968d7ba96074969a25e.jpg',
-'https://telegra.ph/file/7bda527706a6fa4f0792e.jpg',
-'https://telegra.ph/file/600bc25a0a8ffbeb649cd.jpg',
+'https://qu.ax/KMUNF.jpg',
+'https://qu.ax/xvbJZ.jpg',
+'https://qu.ax/PoOTd.jpg',
+'https://qu.ax/qRuuW.jpg',
+'https://qu.ax/TPyNU.png',
+'https://qu.ax/TPyNU.png',
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363344959608845@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: 'ఌ︎ 𝙃𝙪𝙏𝙖𝙤 𝙙𝙞𝙧𝙚𝙘𝙩𝙤𝙧𝙖 𝙣𝙪𝙢77', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
